@@ -3,9 +3,10 @@
 <div align="center">
 <img src="증명사진(윤영식).jpg" alt="영식"> <br>
 </div>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=youngsik823)](https://solved.ac/youngsik823)
 <hr>  
+
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=youngsik823)](https://solved.ac/youngsik823/)
+
  <h2>🪄 Tech Stack 🪄</h2>
  
 #### BACK-END<br>
@@ -29,3 +30,5 @@
     
 </br>
  <img src = "KakaoTalk_20230419_135321211.gif"> 
+
+

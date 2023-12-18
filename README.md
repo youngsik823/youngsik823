@@ -4,7 +4,7 @@
 <img src="증명사진(윤영식).jpg" alt="영식"> <br>
 </div>
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=youngsik823)]([https://github.com/mazassumnida](https://solved.ac/youngsik823)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=youngsik823)](https://solved.ac/youngsik823)
 <hr>  
  <h2>🪄 Tech Stack 🪄</h2>
  

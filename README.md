@@ -1,7 +1,7 @@
 # 윤영식
 
 <div align="center">
-<img src="증명사진(윤영식).jpg" alt="영식"> <br>
+  <img src="증명사진(윤영식).jpg" alt="영식" width="150"> <br>
 </div>
 <hr>  
 
